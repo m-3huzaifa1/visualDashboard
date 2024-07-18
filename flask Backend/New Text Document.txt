@@ -1,0 +1,2 @@
+mongodb+srv://m3huzaifa1:Huzaifa123@m3huzaifa1.uwkb6rb.mongodb.net/visualDashboard
+mongodb+srv://m3huzaifa1:Huzaifa123@m3huzaifa1.uwkb6rb.mongodb.net/visualDashboard?retryWrites=true&w=majority&appName=m3huzaifa1
